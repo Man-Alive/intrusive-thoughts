@@ -1,0 +1,25 @@
+{
+  "author": "R Brewster <brewster1134+intrusive-thoughts@gmail.com>",
+  "bugs": "https://github.com/Man-Alive/intrusive-thoughts/issues",
+  "description": "Blogging platform with markdown support, multiple note app support, multiple cloud storage support, with web presentation support",
+  "homepage": "https://github.com/Man-Alive/intrusive-thoughts#readme",
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "index.js",
+  "name": "intrusive-thoughts",
+  "repository": "github:Man-Alive/intrusive-thoughts",
+  "version": "1.0.0",
+  "keywords": [
+    "api",
+    "application",
+    "blog",
+    "cloud",
+    "desktop",
+    "markdown",
+    "mobile",
+    "service",
+    "web"
+  ],
+  "scripts": {
+    "test": "jest"
+  }
+}
