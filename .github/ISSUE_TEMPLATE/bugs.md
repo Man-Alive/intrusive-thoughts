@@ -1,41 +1,34 @@
 ---
 name: Bugs
-about: Submit a bug report to help us improve our code
-title: "[BUG] "
+about: Problems with existing code
+title: "[BRIEF SUMMARY OF BUG]"
 labels: bug
-assignees: brewster1134
-
 ---
+[REPLACE/DELETE ALL TEXT IN BRACKETS]
+[DELETE UNUSED SECTIONS THAT ARE NOT APPLICABLE]
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Description**
+[FULL DESCRIPTIOON OF THE BUG]
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Steps To Reproduce**
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected Nehavior**
+[WHAT SHOULD HAPPEN]
 
-**Actual behavior**
-A clear and concise description of what actually happens.
+**Actual Behavior**
+[WHAT ACTUALLY HAPPENS]
+
+**Hardware/Software**
+[ADD DEVICE(S), OS(S), BROWSER(S), & VERSION(S) EFFECTED]
+ - [e.g. iPhone6]
+ - [e.g. iOS 10.13]
+ - [e.g. chrome 44, safari 22]
+
+**Additional Info**
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+[ADD SCREENSHOTS, IF IT HELPS DESCRIBE EXPLAIN THE ISSUE]
