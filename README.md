@@ -22,17 +22,19 @@ Any app that can sync to one of the supported cloud services
 
 ## Dependencies
 
-- Supported Notes App `(see above for list of possible apps)`
+- A notes app that can sync to a supported cloud service, or a supported cloud service that can be edited directly through a browser
 - [NodeJS](https://nodejs.org)
 - [Yarn](https://yarnpkg.com)
 
 ## Development
 
 - clone this repo
-- view [development stories](https://github.com/Man-Alive/intrusive-thoughts/issues)
+- view [open issues](https://github.com/Man-Alive/intrusive-thoughts/issues) or [active projects](https://github.com/Man-Alive/intrusive-thoughts/projects)
 
-> ```
+> #### Run Local Server
 >
+> ```shell
+> $ yarn serve
 > ```
 
 > #### Run Tests
