@@ -8,7 +8,7 @@ labels: feature
 [DELETE UNUSED SECTIONS THAT ARE NOT APPLICABLE]
 
 **Description**
-[FULL DESCRIPTIOON OF THE FEATURE]
+[FULL DESCRIPTION OF THE FEATURE]
 
 **Will this feature solve a problem?**
 [DESCRIPTION OF THE PROBLEM THIS FEATURE WOULD SOLVE]
@@ -18,5 +18,10 @@ labels: feature
 
 **Alternative Solutions Suggestion**
 [DESCRIPTION OF OTHER IDEAS ON ADDING THE FEATURE]
+
+**Acceptance Criteria**
+(Given) [SOME CONTEXT]
+(When)  [AN ACTION HAPPENS]
+(Then)  [AN OBSERVABLE RESULT]
 
 **Additional Info**
