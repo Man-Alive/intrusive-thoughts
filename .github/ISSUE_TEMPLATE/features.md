@@ -1,20 +1,22 @@
 ---
 name: Features
-about: Submit suggestions for new features
-title: "[FEAT] "
-labels: enhancement
-assignees: brewster1134
-
+about: Suggestions for new features
+title: "[BRIEF SUMMARY OF FEATURE]"
+labels: feature
 ---
+[REPLACE/DELETE ALL TEXT IN BRACKETS]
+[DELETE UNUSED SECTIONS THAT ARE NOT APPLICABLE]
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Description**
+[FULL DESCRIPTIOON OF THE FEATURE]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Will this feature solve a problem?**
+[DESCRIPTION OF THE PROBLEM THIS FEATURE WOULD SOLVE]
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Primary Solution Suggestion**
+[DESCRIPTION OF APPROACH TO ADDING THE FEATURE]
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Alternative Solutions Suggestion**
+[DESCRIPTION OF OTHER IDEAS ON ADDING THE FEATURE]
+
+**Additional Info**
